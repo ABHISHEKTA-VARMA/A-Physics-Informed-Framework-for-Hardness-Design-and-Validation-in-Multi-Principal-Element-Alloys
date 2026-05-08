@@ -1,0 +1,2 @@
+# A-Physics-Informed-Framework-for-Hardness-Design-and-Validation-in-Multi-Principal-Element-Alloys
+Physics-informed machine learning framework for hardness prediction in multi-principal element alloys (MPEAs), integrating descriptor engineering, SHAP explainability, inverse alloy design, and FEM-based Vickers indentation validation for reproducible, interpretable, and accelerated alloy discovery.
